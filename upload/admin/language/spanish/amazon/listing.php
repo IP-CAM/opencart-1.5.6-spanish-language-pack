@@ -1,183 +1,183 @@
 <?php
-$_['lang_title'] = 'New Amazon listing';
+$_['lang_title'] = 'Nueva lista en amazon';
 $_['lang_openbay'] = 'OpenBay Pro';
 $_['lang_amazon'] = 'Amazon';
 
-$_['button_search'] = 'Search';
-$_['button_new'] = 'Create new product';
-$_['button_return'] = 'Back to products';
-$_['button_amazon_price'] = "Get Amazon's price";
-$_['button_list'] = "List on Amazon";
+$_['button_search'] = 'Busqueda';
+$_['button_new'] = 'Crear nuevo producto';
+$_['button_return'] = 'Regresar a los productos';
+$_['button_amazon_price'] = "Obtener el precio de Amazon";
+$_['button_list'] = "Listar en Amazon";
 
-$_['text_view_on_amazon'] = 'View on Amazon';
-$_['text_list'] = 'List';
-$_['text_new'] = 'New';
-$_['text_used_like_new'] = 'Used - Like New';
-$_['text_used_very_good'] = 'Used - Very Good';
-$_['text_used_good'] = 'Used - Good';
-$_['text_used_acceptable'] = 'Used - Acceptable';
-$_['text_collectible_like_new'] = 'Collectible - Like New';
-$_['text_collectible_very_good'] = 'Collectible - Very Good';
-$_['text_collectible_good'] = 'Collectible - Good';
-$_['text_collectible_acceptable'] = 'Collectible - Acceptable';
-$_['text_refurbished'] = 'Refurbished';
-$_['text_germany'] = 'Germany';
-$_['text_france'] = 'France';
-$_['text_italy'] = 'Italy';
-$_['text_spain'] = 'Spain';
-$_['text_united_kingdom'] = 'United Kingdom';
+$_['text_view_on_amazon'] = 'Ver en Amazon';
+$_['text_list'] = 'Lista';
+$_['text_new'] = 'Nuevo';
+$_['text_used_like_new'] = 'Usado - Como nuevo';
+$_['text_used_very_good'] = 'Usado - Muy bueno';
+$_['text_used_good'] = 'Usado - bueno';
+$_['text_used_acceptable'] = 'Usado - Aceptable';
+$_['text_collectible_like_new'] = 'Coleccionable - como nuevo';
+$_['text_collectible_very_good'] = 'Coleccionable - muy bueno';
+$_['text_collectible_good'] = 'Coleccionable - Bueno';
+$_['text_collectible_acceptable'] = 'Colecionable - Aceptable';
+$_['text_refurbished'] = 'Restaurado';
+$_['text_germany'] = 'Alemania';
+$_['text_france'] = 'Francia';
+$_['text_italy'] = 'Italia';
+$_['text_spain'] = 'España';
+$_['text_united_kingdom'] = 'Reino Unido';
 
-$_['text_product_sent'] = 'Product was successfully sent to Amazon.';
-$_['text_product_not_sent'] = 'Product was not sent to Amazon. Reason: %s';
+$_['text_product_sent'] = 'El producto fue exitosamente  enviado a Amazon.';
+$_['text_product_not_sent'] = 'El producto no fue enviado a Amazon. Razón: %s';
 
-$_['lang_no_results'] = 'No results found';
+$_['lang_no_results'] = 'Resultados no encontrados';
 
-$_['column_image'] = 'Image';
+$_['column_image'] = 'Imagen';
 $_['column_asin'] = 'ASIN';
-$_['column_name'] = 'Name';
-$_['column_price'] = 'Price';
-$_['column_action'] = 'Action';
+$_['column_name'] = 'Nombre';
+$_['column_price'] = 'Precio';
+$_['column_action'] = 'Acción';
 
 $_['entry_sku'] = 'SKU:';
-$_['entry_condition'] = 'Condition:';
-$_['entry_condition_note'] = 'Condition Note:';
-$_['entry_price'] = 'Price:';
-$_['entry_sale_price'] = 'Sale Price:';
-$_['entry_quantity'] = 'Quantity:';
-$_['entry_start_selling'] = 'Available from date:';
-$_['entry_restock_date'] = 'Restock Date:';
-$_['entry_country_of_origin'] = 'Country of Origin:';
-$_['entry_release_date'] = 'Release Date:';
-$_['entry_from'] = 'Date from';
-$_['entry_to'] = 'Date to';
+$_['entry_condition'] = 'Condición:';
+$_['entry_condition_note'] = 'Nota de la condición:';
+$_['entry_price'] = 'Precio:';
+$_['entry_sale_price'] = 'Precio de venta:';
+$_['entry_quantity'] = 'Cantidad:';
+$_['entry_start_selling'] = 'Disponible desde la fecha:';
+$_['entry_restock_date'] = 'Fecha de Restock:';
+$_['entry_country_of_origin'] = 'País de Origen:';
+$_['entry_release_date'] = 'Fecha de liberación:';
+$_['entry_from'] = 'Fecha de Salida';
+$_['entry_to'] = 'Fecha de entrega';
 
-$_['help_sku'] = "Unique product's ID assigned by the merchant";
-$_['help_restock_date'] = "This is the date you will be able to ship any back-ordered items to a customer. This date should not be greater than 30 days from the date listed or orders received may automatically be canceled.";
-$_['help_sale_price'] = "Sale Price must have a start and end date";
+$_['help_sku'] = "ID unico del producto asignado por el comerciante";
+$_['help_restock_date'] = "Esta es la fecha en la que te sera posible enviar cualquier artículo pendiente de entrega al cliente. Esta fecha no debería ser mayor que 30 días de la fecha listada o las ordenes recividas podria automaticamente ser canceladas.";
+$_['help_sale_price'] = "Precios de venta deben tener una fecha de empiezo y una fecha de terminación";
 
-$_['lang_not_in_catalog'] = 'Or, if its not in the catalog&nbsp;&nbsp;&nbsp;';
+$_['lang_not_in_catalog'] = 'O, si no esta en el catalogo&nbsp;&nbsp;&nbsp;';
 
-$_['error_text_missing'] = 'You must enter some search details';
-$_['error_data_missing'] = 'Required data is missing';
-$_['error_missing_asin'] = 'ASIN is missing';
-$_['error_marketplace_missing'] = 'Please select a marketplace';
-$_['error_condition_missing'] = "Please select condition";
-$_['error_fetch'] = 'Could not get the data';
-$_['error_amazon_price'] = 'Could not get the price from Amazon';
-$_['error_stock'] = 'You cannot list an item with less than 1 item in stock';
-$_['error_sku'] = 'You must enter an SKU for the item';
-$_['error_price'] = 'You must enter a price for the item';
+$_['error_text_missing'] = 'Debes introducir algunos detalles de la busqueda';
+$_['error_data_missing'] = 'Los datos obligatorios faltan';
+$_['error_missing_asin'] = 'ASIN falta';
+$_['error_marketplace_missing'] = 'Por favor selecciona un mercado';
+$_['error_condition_missing'] = "Por favor selecciona una condición";
+$_['error_fetch'] = 'No se pudo obtener datos';
+$_['error_amazon_price'] = 'No se pudo obtener el precio desde Amazon';
+$_['error_stock'] = 'No puedes listar un artículo con menos de 1 artículo en el stock';
+$_['error_sku'] = 'Debes introducir el SKU para el artículo';
+$_['error_price'] = 'Debes introducir un precio para el artículo';
 
-$_['tab_required_info'] = 'Required info';
-$_['tab_additional_info'] = 'Additional options';
+$_['tab_required_info'] = 'Información requerida';
+$_['tab_additional_info'] = 'Opciones Adicionales';
 
-$_['lang_placeholder_search'] = 'Enter product name, UPC, EAN, ISBN or ASIN';
-$_['lang_placeholder_condition'] = 'Use this box to describe the condition of your products.';
+$_['lang_placeholder_search'] = 'Introduce el nombre del producto, UPC, EAN ISBN o ASIN';
+$_['lang_placeholder_condition'] = 'Utilizar este campo para describir las condiciones de tus productos.';
 
 /* Headers, tab names */
-$_['item_links_header_text'] = 'Item links';
-$_['quick_listing_header_text'] = 'Quick listing';
-$_['advanced_listing_header_text'] = 'Advanced listing';
-$_['saved_heder_text'] = 'Saved listings';
-$_['lang_tab_main'] = 'Main';
+$_['item_links_header_text'] = 'Enlaces del artículo';
+$_['quick_listing_header_text'] = 'Listado rapido';
+$_['advanced_listing_header_text'] = 'Listado avanzado';
+$_['saved_heder_text'] = 'Listas guardadas';
+$_['lang_tab_main'] = 'Principal';
 
-$_['item_links_tab_text'] = 'Item links';
-$_['quick_listing_tab_text'] = 'Quick listing';
-$_['advanced_listing_tab_text'] = 'Advanced listing';
-$_['saved_tab_text'] = 'Saved listings';
+$_['item_links_tab_text'] = 'Enlaces del artículo';
+$_['quick_listing_tab_text'] = 'Listado rapido';
+$_['advanced_listing_tab_text'] = 'Listado avanzado';
+$_['saved_tab_text'] = 'Listados guradados';
 
-$_['text_error_connecting'] = 'Warning: There was problem connecting to Welford Media API servers. Please check your OpenBay Pro Amazon extension settings. If the problem persists, please contact Welford support.';
+$_['text_error_connecting'] = 'Cuidado: Hubo un problema conectando con Welford Media API servers. Por favor checa tus configuraciones de OpenBay Pro Amazon. Si el problema continua, contacta con el soporte de Welford.';
 
 /* Quick/advanced listing tabs */
-$_['quick_listing_description'] = 'Use this method when matching product already exist in Amazon catalogue. Matching is found by Amazon using Standard product id (ASIN, ISBN, UPS, EAN)';
-$_['advanced_listing_description'] = 'Use this method to create new listings on Amazon.';
-$_['listing_row_text'] = 'Listing for product:';
-$_['already_saved_text'] = 'This product is already in saved listings. Click edit if you want to revise.';
-$_['save_button_text'] = 'Save';
-$_['save_upload_button_text'] = 'Save and upload';
-$_['saved_listings_button_text'] = 'View saved listings';
-$_['cancel_button_text'] = 'Cancel';
-$_['field_required_text'] = 'This field is required!';
-$_['not_saved_text'] = 'Listing was not saved. Check your input.';
-$_['chars_over_limit_text'] = 'characters over limit.';
-$_['minimum_length_text'] = 'Minimum length is';
-$_['characters_text'] = 'characters';
-$_['delete_confirm_text'] = 'Are you sure?';
+$_['quick_listing_description'] = 'Usar este metodo cuando un producto que coincida ya existe en el catalogo de  Amazon. Coincidencias son encontradas por Amazon usando el ID Standard del producto(ASIN, ISBN, UPS, EAN)';
+$_['advanced_listing_description'] = 'Usar este metodo para crear nuevas listas en Amazon.';
+$_['listing_row_text'] = 'Listado de productos:';
+$_['already_saved_text'] = 'Este producto ya se encuentra guardado en tus listas. Click en editar si gustas revisarlo.';
+$_['save_button_text'] = 'Guardar';
+$_['save_upload_button_text'] = 'Guardar y subir';
+$_['saved_listings_button_text'] = 'Ver listas guardadas';
+$_['cancel_button_text'] = 'Cancelar';
+$_['field_required_text'] = 'Este campo es olbigatorio!';
+$_['not_saved_text'] = 'Lista no guardada. Checa tus entradas.';
+$_['chars_over_limit_text'] = 'caracteres por encima del limite.';
+$_['minimum_length_text'] = 'Longitud minima es';
+$_['characters_text'] = 'Caracteres';
+$_['delete_confirm_text'] = '¿Estas seguro?';
 
-$_['clear_image_text'] = 'Clear';
-$_['browse_image_text'] = 'Browse';
+$_['clear_image_text'] = 'Limpiar';
+$_['browse_image_text'] = 'Buscar';
 
-$_['category_selector_field_text'] = 'Amazon category:';
+$_['category_selector_field_text'] = 'Categoria de Amazon:';
 
 /* Item links tab */
-$_['item_links_description'] = 'Here you can add and edit product links to already existing Amazon items without listing them from OpenCart. This will allow stock control between enabled marketplaces. If you have openStock installed - this will also allow you to link item options to individual Amazon SKUs. (Uploading products from OpenCart to Amazon will automaticaly add links)';
-$_['new_link_table_name'] = 'New link';
-$_['new_link_product_column'] = 'Product';
+$_['item_links_description'] = 'Tu puedes agregar o editar enlaces de productos que ya existen en Amazon sin listarlos en OpenCart. TEsto permite controlar el stock entre mercados permitidos. Si tu tienes instalado - te permitira enlazar opciones del artículo a los SKUs de Amazon. (Subir productos de opencart a Amazon automaticamente agregara enlaces)';
+$_['new_link_table_name'] = 'Nuevo enlace';
+$_['new_link_product_column'] = 'Producto';
 $_['new_link_sku_column'] = 'SKU';
-$_['new_link_amazon_sku_column'] = 'Amazon item SKU';
-$_['new_link_action_column'] = 'Action';
+$_['new_link_amazon_sku_column'] = 'SKU del artículo de AmazonAmazon';
+$_['new_link_action_column'] = 'Acción';
 
-$_['item_links_table_name'] = 'Item links';
+$_['item_links_table_name'] = 'Enlaces del artículo';
 
 
 /* Marketplaces */
-$_['marketplaces_field_text'] = 'Marketplace';
-$_['marketplaces_help'] = 'You can choose default marketplace in Amazon extension settings.';
+$_['marketplaces_field_text'] = 'Mercado';
+$_['marketplaces_help'] = 'Puedes seleccionar una mercado por default en las configuraciones de la extensión de Amazon.';
 
 
 /* Saved listings tab */
-$_['saved_listings_description'] = 'This is the list of product listings which are saved locally and ready to be uploaded to Amazon. Click upload to post.';
-$_['actions_edit_text'] = 'Edit';
-$_['actions_remove_text'] = 'Remove';
-$_['upload_button_text'] = 'Upload';
+$_['saved_listings_description'] = 'Esta es la lista de listas de productos que son guardados localmente y estan listos para ser  subido a Amazon. Click en subir a la entrada.';
+$_['actions_edit_text'] = 'Editar';
+$_['actions_remove_text'] = 'Remover';
+$_['upload_button_text'] = 'Subir';
 
-$_['name_column_text'] = 'Name';
-$_['model_column_text'] = 'Model';
+$_['name_column_text'] = 'Nombre';
+$_['model_column_text'] = 'Modelo';
 $_['sku_column_text'] = 'SKU';
-$_['amazon_sku_column_text'] = 'Amazon item SKU';
-$_['actions_column_text'] = 'Action';
-$_['saved_localy_text'] = 'Listing saved localy.';
-$_['uploaded_alert_text'] = 'Saved listing(s) uploaded!';
-$_['upload_failed'] = 'Failed uploading product with SKU: "%s". Reason: "%s" Uploading process canceled.';
+$_['amazon_sku_column_text'] = 'SKU del artículo de Amazon';
+$_['actions_column_text'] = 'Acción';
+$_['saved_localy_text'] = 'Lista guardada localmente.';
+$_['uploaded_alert_text'] = 'Lista(s) guradada(s) subida(s)!';
+$_['upload_failed'] = 'Fallo subiendo el producto con SKU: "%s". Razón: "%s" Proceso de subida cancelado.';
 
 
 /* ITEM LINKS */
-$_['links_header_text'] = 'Link items';
-$_['links_desc1_text'] = 'Linking your items will allow for stock control on your Amazon listings.<br /> For each item that is updated the local stock (the stock available in your OpenCart store) will update your Amazon listing';
-$_['links_desc2_text'] = 'You can link items manualy by entering Amazon SKU and product name or load all unlinked products and then enter amazon SKUs. (Uploading products from OpenCart to Amazon will automaticaly add links)';
-$_['links_load_btn_text'] = 'Load';
-$_['links_new_link_text'] = 'New link';
-$_['links_autocomplete_product_text'] = 'Product<span class="help">(Autocomplete from name)</span>';
-$_['links_amazon_sku_text'] = 'Amazon item SKU';
-$_['links_action_text'] = 'Action';
-$_['links_add_text'] = 'Add';
-$_['links_add_sku_tooltip'] = 'Add another sku';
-$_['links_remove_text'] = 'Remove';
-$_['links_linked_items_text'] = 'Linked items';
-$_['links_unlinked_items_text'] = 'Unlinked items';
-$_['links_name_text'] = 'Name';
-$_['links_model_text'] = 'Model';
+$_['links_header_text'] = 'Enlace de los artículos';
+$_['links_desc1_text'] = 'Enlazando tus artículos permitira controlar el stock de tus listas en Amazon.<br /> Por cada artículo que es actualizado el stock local (el stock disponible en tu tienda OpenCart) actualizara tus listas en Amazon';
+$_['links_desc2_text'] = 'Puesde enlezar artículos manualmente introduciendo el Amazon SKU y el nombre del producto or cargar todos los productos que no estan enlazados y introducir los amazon SKUs. (Subir producto de Opencart a Amazon automaticamente agregara enlaces)';
+$_['links_load_btn_text'] = 'Cargar';
+$_['links_new_link_text'] = 'Nuevo enlace';
+$_['links_autocomplete_product_text'] = 'Producto<span class="help">(Autocompletar con el nombre)</span>';
+$_['links_amazon_sku_text'] = 'SKU del artículo de Amazon';
+$_['links_action_text'] = 'Acción';
+$_['links_add_text'] = 'Agregar';
+$_['links_add_sku_tooltip'] = 'Agregar otro sku';
+$_['links_remove_text'] = 'Remover';
+$_['links_linked_items_text'] = 'Artículos enlazados';
+$_['links_unlinked_items_text'] = 'Artículos nos enlazados';
+$_['links_name_text'] = 'Nombre';
+$_['links_model_text'] = 'Modelo';
 $_['links_sku_text'] = 'SKU';
-$_['links_amazon_sku_text'] = 'Amazon item SKU';
-$_['links_sku_empty_warning'] = 'Amazon SKU can not be empty!';
-$_['links_name_empty_warning'] = 'Product name can not be empty!';
-$_['links_product_warning'] = 'Product does not exist. Please use autocomplete values.';
+$_['links_amazon_sku_text'] = 'SKU del artículo de Amazon';
+$_['links_sku_empty_warning'] = 'El SKU de Amazon no puede estar vacio!';
+$_['links_name_empty_warning'] = 'El nombre del Producto no puede estar vacio!';
+$_['links_product_warning'] = 'El producto no existe. Por favor completa los valores.';
 
-$_['option_default'] = '-- Select option --';
-$_['lang_error_load_nodes'] = 'Unable to load browse nodes';
+$_['option_default'] = '-- Selecciona una  opción --';
+$_['lang_error_load_nodes'] = 'Imposible cargar la busqueda de nodos';
 
 /* Listin edit page */
-$_['text_edit_heading'] = 'Listing overview';
+$_['text_edit_heading'] = 'Resumen de los listados';
 
-$_['text_has_saved_listings'] = 'This product has one or more localy saved listings.';
+$_['text_has_saved_listings'] = 'Este producto esta en una o mas listas guardadas localmente.';
 
-$_['text_product_links'] = 'Product links';
-$_['button_create_new_listing'] = "Create new listing";
-$_['button_remove_links'] = "Remove links";
-$_['button_saved_listings'] = "View saved listings";
+$_['text_product_links'] = 'Enlaces de los Productos';
+$_['button_create_new_listing'] = "Crear nuevas listas";
+$_['button_remove_links'] = "Remover enlaces";
+$_['button_saved_listings'] = "Ver listas guardadas";
 
-$_['column_name'] = 'Product Name';
-$_['column_model'] = 'Model';
-$_['column_combination'] = 'Combination';
+$_['column_name'] = 'Nombre del Producto';
+$_['column_model'] = 'Modelo';
+$_['column_combination'] = 'Combinación';
 $_['column_sku'] = 'SKU';
-$_['column_amazon_sku'] = 'Amazon item SKU';
+$_['column_amazon_sku'] = 'SKU del artículo de Amazon';
