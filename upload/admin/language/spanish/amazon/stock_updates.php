@@ -1,20 +1,20 @@
 <?php
-$_['lang_title']                    = 'OpenBay Pro for Amazon | Stock updates';
-$_['lang_stock_updates']            = 'Stock updates';
+$_['lang_title']                    = 'OpenBay Pro para Amazon | Actualizaciones del Stock';
+$_['lang_stock_updates']            = 'Actualizaciones del Stock';
 $_['lang_openbay']                  = 'OpenBay Pro';
-$_['lang_overview']                 = 'Amazon Overview';
-$_['lang_my_account']               = 'My account';
-$_['lang_btn_return']               = 'Cancel';
+$_['lang_overview']                 = 'Amazon Resumen';
+$_['lang_my_account']               = 'Mi cuenta';
+$_['lang_btn_return']               = 'Cancelar';
 //Table columns
-$_['lang_ref']                      = 'Ref';
-$_['lang_date_requested']           = 'Date requested';
-$_['lang_date_updated']             = 'Date updated';
-$_['lang_status']                   = 'Status';
+$_['lang_ref']                      = 'Referencia';
+$_['lang_date_requested']           = 'Fecha de solicitud';
+$_['lang_date_updated']             = 'Fecha actualizada';
+$_['lang_status']                   = 'Estado';
 $_['lang_sku']                      = 'Amazon SKU';
 $_['lang_stock']                    = 'Stock';
 
 
-$_['lang_empty']                    = 'No results!';
-$_['lang_date_start']               = 'Date Start:';
-$_['lang_date_end']                 = 'Date End:';
-$_['lang_filter_btn']               = 'Filter';
+$_['lang_empty']                    = 'Resultados no encontrados!';
+$_['lang_date_start']               = 'Fecha de inicio:';
+$_['lang_date_end']                 = 'Fecha de fin:';
+$_['lang_filter_btn']               = 'Filtro';
