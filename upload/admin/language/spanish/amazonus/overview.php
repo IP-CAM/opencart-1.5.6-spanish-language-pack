@@ -1,11 +1,11 @@
 <?php
-$_['lang_title']                    = 'OpenBay Pro for Amazon US';
-$_['lang_heading']                  = 'Amazon US Overview';
-$_['lang_overview']                 = 'Amazon US Overview';
+$_['lang_title']                    = 'OpenBay Pro para Amazon US';
+$_['lang_heading']                  = 'Resumen Amazon US';
+$_['lang_overview']                 = 'Resumen Amazon US';
 $_['lang_openbay']                  = 'OpenBay Pro';
-$_['lang_heading_settings']         = 'Settings';
-$_['lang_heading_account']          = 'My Account';
-$_['lang_heading_links']            = 'Item links';
-$_['lang_heading_register']         = 'Register';
-$_['lang_heading_stock_updates']    = 'Stock updates';
-$_['lang_heading_saved_listings']   = 'Saved listings';
+$_['lang_heading_settings']         = 'Configuraciones';
+$_['lang_heading_account']          = 'Mi cuenta';
+$_['lang_heading_links']            = 'Enlaces del artículo';
+$_['lang_heading_register']         = 'Registrar';
+$_['lang_heading_stock_updates']    = 'actualizaciones del Stock';
+$_['lang_heading_saved_listings']   = 'Listas guardadas';
