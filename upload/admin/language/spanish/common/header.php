@@ -44,6 +44,7 @@ $_['text_order_status']                = 'Estatus del pedido';
 $_['text_opencart']                    = 'Página inicio';
 $_['text_payment']                     = 'Pagos';
 $_['text_product']                     = 'Productos';
+$_['text_profile']                     = 'Perfiles';
 $_['text_reports']                     = 'Reportes';
 $_['text_report_sale_order']           = 'Pedidos';
 $_['text_report_sale_tax']             = 'Impuestos';
@@ -81,4 +82,21 @@ $_['text_voucher_theme']               = 'Temas de Vale';
 $_['text_weight_class']                = 'Tipos de Peso';
 $_['text_length_class']                = 'Tipos de Medida';
 $_['text_zone']                        = 'Zonas';
+
+$_['text_openbay_extension']           = 'OpenBay Pro';
+$_['text_openbay_dashboard']           = 'Tablero Principal';
+$_['text_openbay_orders']              = 'Actualización del volumen del pedido';
+$_['text_openbay_items']               = 'Administrar artículos';
+$_['text_openbay_ebay']                = 'eBay';
+$_['text_openbay_amazon']              = 'Amazon (EU)';
+$_['text_openbay_amazonus']            = 'Amazon (US)';
+$_['text_openbay_play']                = 'Play.com (EU)';
+$_['text_openbay_settings']            = 'Configuraciones';
+$_['text_openbay_links']               = 'Enlaces del artículo';
+$_['text_openbay_report_price']        = 'Reporte del precio';
+$_['text_openbay_order_import']        = 'Orden de Importación';
+
+$_['text_paypal_manage']               = 'PayPal';
+$_['text_paypal_search']               = 'Busqueda';
+$_['text_recurring_profile']           = 'Perfiles recurrentes';
 ?>
