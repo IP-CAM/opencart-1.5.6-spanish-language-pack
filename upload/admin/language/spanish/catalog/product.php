@@ -75,6 +75,28 @@ $_['entry_tag']          	 = 'Etiqueta de productos:<br /><span class="help">sep
 $_['entry_reward']           = 'Puntos de recompensa:';
 $_['entry_layout']           = 'Sobreescribir diseño:';
 
+$_['entry_profile']          = 'Perfil:';
+
+$_['text_recurring_help']    = 'Los montos recurrentes son calculados por la frecuencia y ciclos. <br />Por ejemplo si usas una frecuencia de una semana y un ciclo de  2, entonces el usuario sera cobrado cada dos semanas . <br />La longitud es el numero de veces que el usuario hara un pago, colocarlo a 0 si tu quieres pagos hasta que sean cancelados.';
+$_['text_recurring_title']   = 'Pagos recurrentes';
+$_['text_recurring_trial']   = 'Periodo Trial';
+$_['entry_recurring']        = 'Cobro recurrente:';
+$_['entry_recurring_price']  = 'Precio recurrente:';
+$_['entry_recurring_freq']   = 'Frecuencia del periodo:';
+$_['entry_recurring_cycle']  = 'Ciclos recurrentes:<span class="help">Que tan seguido debe ser cobrado, debe ser mayor a uno o mas</span>';
+$_['entry_recurring_length'] = 'Longitud de la recurrencia:<span class="help">0 = hasta que se cancele</span>';
+$_['entry_trial']            = 'Periodo Trial:';
+$_['entry_trial_price']      = 'Precio del Periodo Trial:';
+$_['entry_trial_freq']       = 'Frecuencia del periodo Trial:';
+$_['entry_trial_cycle']      = 'Ciclos del periodo Trial:<span class="help">Que tan seguido debe ser cobrado, debe ser uno o mayor</span>';
+$_['entry_trial_length']     = 'Longitud del periodo del Trial:';
+
+$_['text_length_day']        = 'Día';
+$_['text_length_week']       = 'Semana';
+$_['text_length_month']      = 'Mes';
+$_['text_length_month_semi'] = 'Semi Mes';
+$_['text_length_year']       = 'Año';
+
 // Error
 $_['error_warning']          = 'Cuidado: Por favor comprueba que el formulario esté libre de errores!';
 $_['error_permission']       = 'Cuidado: No tienes permiso para modificar productos!';
