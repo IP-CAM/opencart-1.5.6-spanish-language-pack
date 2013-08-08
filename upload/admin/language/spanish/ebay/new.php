@@ -2,35 +2,35 @@
 /**
  * Generic
  */
-$_['lang_page_title']               = 'eBay listing';
-$_['lang_cancel']                   = 'Cancel';
-$_['lang_none']                     = 'None';
-$_['lang_preview']                  = 'Preview';
-$_['lang_pixels']                   = 'Pixels';
-$_['lang_yes']                      = 'Yes';
+$_['lang_page_title']               = 'Listados de eBay';
+$_['lang_cancel']                   = 'Cancelar';
+$_['lang_none']                     = 'Nada';
+$_['lang_preview']                  = 'Vista anticipada';
+$_['lang_pixels']                   = 'Pixeles';
+$_['lang_yes']                      = 'Si';
 $_['lang_no']                       = 'No';
-$_['lang_add']                      = 'Add';
-$_['lang_remove']                   = 'Remove';
-$_['lang_save']                     = 'Save';
-$_['lang_other']                    = 'Other';
-$_['lang_select']                   = 'Select';
-$_['lang_loading']                  = 'Loading';
-$_['lang_confirm_action']           = 'Are you sure?';
+$_['lang_add']                      = 'Agregar';
+$_['lang_remove']                   = 'Remover';
+$_['lang_save']                     = 'Guardar';
+$_['lang_other']                    = 'Otro';
+$_['lang_select']                   = 'Seleccionar';
+$_['lang_loading']                  = 'cargar';
+$_['lang_confirm_action']           = '¿Estas seguro?';
 
-$_['lang_return']                   = 'Return to products';
-$_['lang_view']                     = 'View listing';
-$_['lang_edit']                     = 'Edit';
+$_['lang_return']                   = 'Regresar a los Productos';
+$_['lang_view']                     = 'Vers listados';
+$_['lang_edit']                     = 'Editar';
 
-$_['lang_catalog_pretext']          = 'This tab will display any results for items found in the eBay catalog - select your category first.';
-$_['lang_feature_pretext']          = 'This tab will display any item features available - select your category first.';
+$_['lang_catalog_pretext']          = 'Esta pestaña mostrara cualquier resultado en los artículos  del catalog de eBay catalog - Selccionar tus categorías primero.';
+$_['lang_feature_pretext']          = 'Esta petaña mostrara cualquier característica de artículos disponibles - Seleccionar tu categría primero.';
 
 /**
  * Ajax messages
  */
-$_['lang_ajax_noload']              = 'Sorry, could not connect';
-$_['lang_ajax_catproblem']          = 'You must fix your category problem before you can list. Try re-syncing them in the module admin area.';
-$_['lang_ajax_item_condition']      = 'Item Condition';
-$_['lang_ajax_error_cat']           = 'Please choose an eBay category';
+$_['lang_ajax_noload']              = 'Lo sentimos, no podemos conectar';
+$_['lang_ajax_catproblem']          = 'Nesecitas arreglar tus problemas de categorías antes que hagas listados. Trata de resincronizar con el modulo del area administrativa.';
+$_['lang_ajax_item_condition']      = 'Condición del artículo';
+$_['lang_ajax_error_cat']           = 'Selecciona una categoría de eBay';
 $_['lang_ajax_error_sku']           = 'Cannot submit a product without an SKU';
 $_['lang_ajax_error_name']          = 'Cannot submit a product without a name';
 $_['lang_ajax_error_name_len']      = 'Product name must be under 80 characters';
