@@ -43,49 +43,49 @@ $_['error_permission']          = 'Warning: You do not have permission to modify
 $_['lang_error_retry']          = 'Could not connect to the OpenBay server. ';
 
 // Updates
-$_['lang_use_pasv']                     = 'Use passive FTP';
-$_['field_ftp_user']                    = 'FTP Username';
-$_['field_ftp_pw']                      = 'FTP Password';
-$_['field_ftp_server_address']          = 'FTP server address';
-$_['field_ftp_root_path']               = 'FTP path on server';
-$_['field_ftp_root_path_info']          = '(No trailing slash e.g. httpdocs/www)';
-$_['desc_ftp_updates']                  = 'Enabling updates from here means you do not have to manually update your module using the standard drag and drop through FTP. Your FTP are not sent to the API.<br />';
+$_['lang_use_pasv']                     = 'Usar FTP pasivo';
+$_['field_ftp_user']                    = 'Nombre de usuario del FTP';
+$_['field_ftp_pw']                      = 'Contraseña del FTP';
+$_['field_ftp_server_address']          = 'Dirección del servidor del FTP';
+$_['field_ftp_root_path']               = 'Directorio del serivodr FTP';
+$_['field_ftp_root_path_info']          = '(No usar la diagonal invertida e.j. httpdocs/www)';
+$_['desc_ftp_updates']                  = 'Habilitar actualizaciones desde aquí significa que tu no tienes que actualizar manualmente tu modulo usando el standar drag and drop. Tu FTP no esta enviando el API.<br />';
 
 //Updates
-$_['lang_run_patch_desc']               = 'Post update patch<span class="help">Only needed if you manually update</span>';
-$_['lang_run_patch']                    = 'Run patch';
-$_['update_error_username']             = 'Username expected';
-$_['update_error_password']             = 'Password expected';
-$_['update_error_server']               = 'Server expected';
-$_['update_error_admindir']             = 'Admin directory expected';
-$_['update_okcon_noadmin']              = 'Connection OK but your OpenCart admin directory was not found';
-$_['update_okcon_nofiles']              = 'Connection OK but OpenCart folders were not found! Is your root path correct?';
-$_['update_okcon']                      = 'Connected to server OK. OpenCart folders found';
-$_['update_failed_user']                = 'Could not login with that user';
-$_['update_failed_connect']             = 'Could not connect to server';
-$_['update_success']                    = 'Module has been updated (v.%s)';
-$_['lang_patch_notes1']                 = 'To read about the recent and past updates';
-$_['lang_patch_notes2']                 = 'click here';
+$_['lang_run_patch_desc']               = 'Actualización del Parche Post<span class="help">Solo se necesita si actualiza manualmente</span>';
+$_['lang_run_patch']                    = 'Correr parche';
+$_['update_error_username']             = 'Nombre de usuario espereado';
+$_['update_error_password']             = 'Contraseña esperada';
+$_['update_error_server']               = 'Servidor esperado expected';
+$_['update_error_admindir']             = 'Directorio del administrador esperado';
+$_['update_okcon_noadmin']              = 'Conexión OK pero tu directorio del Admin en OpenCart admin no fue encontrado';
+$_['update_okcon_nofiles']              = 'Conexión OK pero los directorios de OpenCart no fueron encontrados! ¿La url es correcta?';
+$_['update_okcon']                      = 'Conexión al servidor ok. Direcotrios de OpenCart fueron encontrados';
+$_['update_failed_user']                = 'No se puedo conectar con ese usuario';
+$_['update_failed_connect']             = 'No se puede conectar al servidor';
+$_['update_success']                    = 'El modulo ha sido actualizado (v.%s)';
+$_['lang_patch_notes1']                 = 'Para leer sobre actualizaciones recientes y pasadas';
+$_['lang_patch_notes2']                 = 'click aquí';
 
 //Help tab
-$_['lang_help_title']                   = 'Information on help & support';
-$_['lang_help_support_title']           = 'Support';
-$_['lang_help_support_description']     = 'You should read our FAQ section to see if your question is already answered <a href="http://shop.openbaypro.com/index.php?route=information/faq" title="OpenBay Pro for OpenCart support FAQ">here</a>. <br />If you cannot find an answer then you can create a support ticket, <a href="http://support.welfordmedia.co.uk" title="OpenBay Pro for OpenCart support site">click here</a>';
-$_['lang_help_template_title']          = 'Creating eBay templates';
-$_['lang_help_template_description']    = 'Information for developers &amp; designers on creating custom templates for their eBay listings, <a href="http://shop.openbaypro.com/index.php?route=information/faq&topic=30" title="OpenBay Pro HTML templates for eBay">click here</a>';
+$_['lang_help_title']                   = 'Información sobre ayuda y soporte';
+$_['lang_help_support_title']           = 'Suporte';
+$_['lang_help_support_description']     = 'Deberías leer nuestro sección de preguntas frecuentes para ver si tu pregunta ya ha sido respondida <a href="http://shop.openbaypro.com/index.php?route=information/faq" title="OpenBay Pro para soporte de OpenCart">here</a>. <br />Si no puedes encontrar una respuesta entonces puedes crear un ticket para soporte, <a href="http://support.welfordmedia.co.uk" title="OpenBay Pro para soporte de OpenCart ">click aquí</a>';
+$_['lang_help_template_title']          = 'Creando plantillas de eBay';
+$_['lang_help_template_description']    = 'Información para desarrolladores &amp; diseñadores creaando plantillas personalizadas para sus listados de eBay, <a href="http://shop.openbaypro.com/index.php?route=information/faq&topic=30" title="OpenBay Pro platillas HTML para eBay">click aquí</a>';
 
-$_['lang_tab_help']                     = 'Help';
-$_['lang_help_guide']                   = 'User guides';
-$_['lang_help_guide_description']       = 'To download and view the eBay and Amazon user guides <a href="http://shop.openbaypro.com/index.php?route=information/faq&topic=37" title="OpenBay Pro user guides">click here</a>';
+$_['lang_tab_help']                     = 'Ayuda';
+$_['lang_help_guide']                   = 'Guuía de Usuarios';
+$_['lang_help_guide_description']       = 'Para descargar y ver las guias de usuario de eBay y Amazon<a href="http://shop.openbaypro.com/index.php?route=information/faq&topic=37" title="OpenBay Pro guías de usuario">click aquí</a>';
 
-$_['lang_mcrypt_text_false']            = 'PHP function "mcrypt_encrypt" is not enabled. Contact your hosting provider.';
-$_['lang_mb_text_false']                = 'PHP library "mb strings" is not enabled. Contact your hosting provider.';
-$_['lang_ftp_text_false']               = 'PHP FTP functions are not enabled. Contact your hosting provider.';
-$_['lang_error_oc_version']             = 'Your version of OpenCart is not tested to work with this module. You may experience problems.';
-$_['lang_patch_applied']                = 'Patch applied';
-$_['faqbtn']                            = 'View FAQ';
-$_['lang_clearfaq']                     = 'Clear hidden FAQ popups';
-$_['lang_clearfaqbtn']                  = 'Clear';
+$_['lang_mcrypt_text_false']            = 'La función de PHP "mcrypt_encrypt" no esta habilitada. Contacta con tu proovedor de hosting.';
+$_['lang_mb_text_false']                = 'La librería de PHP "mb strings" no esta habilitada. Contacta con tu proovedor de hosting.';
+$_['lang_ftp_text_false']               = 'La función FTP de PHP no estan habilitadas. Contacta con tu proovedor de hosting.';
+$_['lang_error_oc_version']             = 'Tu versión de Opencar no esta probada para trabajar con este modulo. Puedes tener problemas.';
+$_['lang_patch_applied']                = 'Parche aplicado';
+$_['faqbtn']                            = 'Ver FAQ';
+$_['lang_clearfaq']                     = 'Limpiar ventanas escondidas del FAQ';
+$_['lang_clearfaqbtn']                  = 'Limpiar';
 
 // Ajax elements
 $_['lang_ajax_ebay_shipped']            = 'The order will be marked as shipped on eBay automatically';
