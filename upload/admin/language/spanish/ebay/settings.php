@@ -1,42 +1,42 @@
 <?php
-$_['lang_heading_title']        = 'OpenBay Pro for eBay | Settings';
+$_['lang_heading_title']        = 'OpenBay Pro para eBay | Configuraciones';
 $_['lang_openbay']              = 'OpenBay Pro';
 $_['lang_ebay']                 = 'eBay';
-$_['lang_settings']             = 'Settings';
-$_['lang_save']                 = 'Save';
-$_['lang_cancel']               = 'Cancel';
-$_['lang_yes']                  = 'Yes';
-$_['lang_update']               = 'Update';
+$_['lang_settings']             = 'Configuraciones';
+$_['lang_save']                 = 'Guardar';
+$_['lang_cancel']               = 'Cancelar';
+$_['lang_yes']                  = 'Si';
+$_['lang_update']               = 'Actualizar';
 $_['lang_no']                   = 'No';
-$_['lang_import']               = 'Import';
-$_['lang_clear']                = 'Clear';
-$_['lang_add']                  = 'Add';
-$_['lang_remove']               = 'Remove';
-$_['lang_load']                 = 'Load';
-$_['lang_text_success']         = 'Your settings have been saved';
+$_['lang_import']               = 'Importar';
+$_['lang_clear']                = 'Limpiar';
+$_['lang_add']                  = 'Agregar';
+$_['lang_remove']               = 'Remover';
+$_['lang_load']                 = 'Cargar';
+$_['lang_text_success']         = 'Tus configuraciones han sido Guardadas';
 
-$_['lang_error_save_settings']  = 'You need to save your settings first.';
+$_['lang_error_save_settings']  = 'Necesitas primero guradar tus configuraciones.';
 
-$_['lang_tab_token']            = 'API details'; 
-$_['lang_tab_general']          = 'Settings'; 
-$_['lang_tab_setup']            = 'Settings'; 
-$_['lang_tab_defaults']         = 'Listing defaults'; 
-$_['lang_tab_shipping']         = 'Shipping defaults';
+$_['lang_tab_token']            = 'Detalles del API'; 
+$_['lang_tab_general']          = 'Configuraciones'; 
+$_['lang_tab_setup']            = 'Configuraciones'; 
+$_['lang_tab_defaults']         = 'Listando defualts'; 
+$_['lang_tab_shipping']         = 'Defualts de los envios';
 
-$_['lang_legend_api']           = 'API connection details';
-$_['lang_legend_app_settings']  = 'Application settings';
-$_['lang_legend_default_import']= 'Default import settings';
-$_['lang_legend_payments']      = 'Payments';
-$_['lang_legend_returns']       = 'Returns';
-$_['lang_legend_linkup']        = 'Link items';
-$_['lang_legend_usage']         = 'Call usage';
-$_['lang_legend_subscription']  = 'Subscription';
+$_['lang_legend_api']           = 'Detalles de la conección del API';
+$_['lang_legend_app_settings']  = 'Configuraciones de la Aplicación';
+$_['lang_legend_default_import']= 'Configuraciones por Default de las importaciones';
+$_['lang_legend_payments']      = 'Pagos';
+$_['lang_legend_returns']       = 'Devoluciones';
+$_['lang_legend_linkup']        = 'Artículos del enlace';
+$_['lang_legend_usage']         = 'Llamada para usar';
+$_['lang_legend_subscription']  = 'Subscripción';
 
-$_['lang_error_oc_version']     = 'Your version of OpenCart is <u>not</u> supported';
+$_['lang_error_oc_version']     = 'Tu versión de opencart <u>no</u> es soportada';
 
-$_['lang_status']               = 'Status';
-$_['lang_enabled']              = 'Enabled';
-$_['lang_disabled']             = 'Disabled';
+$_['lang_status']               = 'Estatus';
+$_['lang_enabled']              = 'Habilitada';
+$_['lang_disabled']             = 'No habilitada';
 $_['lang_obp_token']            = 'Token';
 $_['lang_obp_token_register']   = 'Click here to register for your token';
 $_['lang_obp_token_renew']      = 'Click here to renew your token';
