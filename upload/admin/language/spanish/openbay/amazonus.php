@@ -13,12 +13,12 @@ $_['save_text'] = 'Guardar';
 
 /* Orders Tab */
 
-$_['order_statuses_text'] = 'Order Statuses';
+$_['order_statuses_text'] = 'Estados del Pedido';
 
-$_['unshipped_text'] = 'Unshipped';
-$_['partially_shipped_text'] = 'Partialy Shipped';
-$_['shipped_text'] = 'Shipped';
-$_['canceled_text'] = 'Canceled';
+$_['unshipped_text'] = 'No enviado';
+$_['partially_shipped_text'] = 'Parcialmente enviado';
+$_['shipped_text'] = 'Enviado';
+$_['canceled_text'] = 'Cancelado';
 
 $_['import_tax_text'] = 'Tax for imported items';
 $_['import_tax_help'] = 'Used if amazonus does not return tax information';
