@@ -20,20 +20,20 @@ $_['partially_shipped_text'] = 'Parcialmente enviado';
 $_['shipped_text'] = 'Enviado';
 $_['canceled_text'] = 'Cancelado';
 
-$_['import_tax_text'] = 'Tax for imported items';
-$_['import_tax_help'] = 'Used if amazonus does not return tax information';
+$_['import_tax_text'] = 'Impuesto para artículos importados';
+$_['import_tax_help'] = 'Usado si amazonus no regresa información sobre los impuestos';
 
-$_['other_text'] = 'Other';
-$_['customer_group_text'] = 'Customer Group';
-$_['customer_group_help_text'] = 'Select a customer group to assign to imported orders';
+$_['other_text'] = 'Otro';
+$_['customer_group_text'] = 'Grupo de clientes';
+$_['customer_group_help_text'] = 'Selecciona un grupo de clientes para asignar a los pedidos importados';
 
-$_['marketplaces_text'] = 'Marketplaces';
-$_['markets_text'] = "Select markets from which you would like to import your orders";
-$_['de_text'] = "Germany";
-$_['fr_text'] = "France";
-$_['it_text'] = "Italy";
-$_['es_text'] = "Spain";
-$_['uk_text'] = "United Kingdom";
+$_['marketplaces_text'] = 'Mercados';
+$_['markets_text'] = "Selecciona mercados desde los cuales te gustaría importar tus pedidos";
+$_['de_text'] = "Alemani";
+$_['fr_text'] = "Francia";
+$_['it_text'] = "Italia";
+$_['es_text'] = "España";
+$_['uk_text'] = "Reyno Unido";
 
 /* Subscription tab */
 
