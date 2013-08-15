@@ -37,21 +37,22 @@ $_['uk_text'] = "Reyno Unido";
 
 /* Subscription tab */
 
-$_['register_invite_text'] = "Don't have the credentials? Register now to get them";
-$_['register_text'] = 'Register';
-$_['loading_text'] = 'Loading';
+$_['register_invite_text'] = "¿No tienes credenciales? Registrate ahora para obtener unas";
+$_['register_text'] = 'Registrar';
+$_['loading_text'] = 'Cargandao';
 
-$_['change_plans_text'] = 'Change plans';
-$_['your_plan_text'] = 'Your current plan and account balance';
-$_['change_plan_text'] = 'Change plan';
-$_['change_plans_help_text'] = 'Not satisfied with your current plan?';
-$_['name_text'] = 'Name';
-$_['description_text'] = 'Description';
-$_['price_text'] = 'Price';
-$_['order_frequency_text'] = 'Order import frequency';
-$_['product_listings_text'] = 'New product listings per month';
-$_['listings_remaining_text'] = 'Product listings remaining';
-$_['listings_reserved_text'] = 'Products being processed';
+$_['change_plans_text'] = 'Cambiar planes';
+$_['your_plan_text'] = 'Tu plan actual y el balance de tu cuenta';
+$_['change_plan_text'] = 'Cambiar plan';
+$_['change_plans_help_text'] = '¿No estas satisfecho con tu plan actual?';
+$_['name_text'] = 'Nombre';
+$_['description_text'] = 'Descripción';
+$_['price_text'] = 'Precio';
+$_['order_frequency_text'] = 'Frecuencia de importación de pedidos';
+$_['product_listings_text'] = 'Nuevo listado de producots por mes';
+$_['listings_remaining_text'] = 'Listado de productos restantes';
+$_['listings_reserved_text'] = 'Los productos han empezado a ser procesados';
+
 
 /* Listings Tab */
 
