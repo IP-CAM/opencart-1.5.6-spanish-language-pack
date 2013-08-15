@@ -55,16 +55,15 @@ $_['listings_reserved_text'] = 'Los productos han empezado a ser procesados';
 
 
 /* Listings Tab */
-
-$_['tax_percentage_text'] = 'Percentage added to default product\'s price';
-$_['default_mp_text'] = 'Default marketplaces for product listing and lookups';
+$_['tax_percentage_text'] = 'Porcentaje agregado por default al precio del producto';
+$_['default_mp_text'] = 'Mercado por defualt para el listado de productos y su busqueda';
 
 /* Misc */
 
-$_['setttings_updated_text'] = 'Settings were successfully updated.';
-$_['error_permission'] = 'You do not have access to this module';
-$_['settings_text'] = 'Main Settings';
-$_['subscription_text'] = 'Subscription';
-$_['link_items_text'] = 'Link Items';
-$_['listing_text'] = 'Listings';
-$_['orders_text'] = 'Orders';
+$_['setttings_updated_text'] = 'Las configuraciones fueron existosamente actualizadas.';
+$_['error_permission'] = 'No tienes acceso a este modulo';
+$_['settings_text'] = 'Configuraciones principales';
+$_['subscription_text'] = 'Subscripción';
+$_['link_items_text'] = 'Artículos del enlace';
+$_['listing_text'] = 'Listados';
+$_['orders_text'] = 'Pedidos';
