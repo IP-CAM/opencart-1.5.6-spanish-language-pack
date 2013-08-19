@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']					 = 'PayPal Standard';
+$_['heading_title']					 = 'Pagos con PayPal Standard';
 
 // Text
 $_['text_payment']					 = 'Pago';
 $_['text_success']					 = 'Éxito: has modificado los detalles de la cuenta de Paypal!';
-$_['text_pp_standard']				 = '<a href="https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW" target="_blank"><img src="view/image/payment/paypal.png" alt="PayPal" title="PayPal" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_pp_standard']				 = '<a onclick="window.open(\'https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW\');"><img src="view/image/payment/paypal.png" alt="PayPal Payments Standard" title="PayPal Payments Standard" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Autorización';
 $_['text_sale']						 = 'Venta';
 
