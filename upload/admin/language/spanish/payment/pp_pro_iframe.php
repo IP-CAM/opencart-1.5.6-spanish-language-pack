@@ -159,13 +159,13 @@ $_['entry_reversed_status'] = 'Estatus de inversión:';
 $_['entry_voided_status'] = 'Estatus anulado:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
-$_['error_sig'] = 'Signature Required!';
-$_['error_user'] = 'User Required!';
-$_['error_password'] = 'Password Required!';
-$_['error_timeout'] = 'Request timed out';
-$_['error_transaction_missing'] = 'Could not find the transaction';
-$_['error_missing_data'] = 'Missing data';
-$_['error_general'] = 'There was an error';
-$_['error_capture_amt'] = 'Enter an amount to capture';
+$_['error_permission'] = 'Cuidado: No tienes permisos para modificar el pago con PayPal Website Payment Pro iFrame (UK)!';
+$_['error_sig'] = 'Firma obligatoria';
+$_['error_user'] = 'Usurio obligatorio!';
+$_['error_password'] = 'Contraseña obligatoria!';
+$_['error_timeout'] = 'Tiempo de petición obligatoria';
+$_['error_transaction_missing'] = 'No se puede encontrar la transacción';
+$_['error_missing_data'] = 'Datos perdidos';
+$_['error_general'] = 'Hubo un error';
+$_['error_capture_amt'] = 'Introducir un monto a capturar';
 ?>
