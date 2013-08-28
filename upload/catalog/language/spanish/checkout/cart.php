@@ -21,7 +21,17 @@ $_['text_shipping_estimate'] = 'Estimar envío &amp; Impuestos';
 $_['text_shipping_detail']   = 'Introduce tu destino para obtener un estimado para tu envío.';
 $_['text_shipping_method']   = 'Por favor seleeciona el metodo preferido de envío para usar en este pedido.';
 $_['text_empty']             = 'Tu carrito esta vacío!';
-
+$_['text_until_cancelled']   = 'Hasta ser cancelado';
+$_['text_recurring_item']    = 'Artículo recurrente';
+$_['text_payment_profile']   = 'Perfil de pago';
+$_['text_trial_description'] = '%s cada %d %s(s) por %d pago(s) entonces';
+$_['text_payment_description'] = '%s cada %d %s(s) por %d pagos(s)';
+$_['text_payment_until_canceled_description'] = '%s cada %d %s(s) hasta ser cancelados';
+$_['text_day']               = 'día';
+$_['text_week']              = 'semana';
+$_['text_semi_month']        = 'medio mes';
+$_['text_month']             = 'mes';
+$_['text_year']              = 'año';
 // Column
 $_['column_image']           = 'Imagen';
 $_['column_name']            = 'Nombre del Producto';
@@ -53,4 +63,10 @@ $_['error_country']          = 'Por favor seleeciona un País!';
 $_['error_zone']             = 'Por favor seleeciona un región / Estado!';
 $_['error_shipping']         = 'Cuidado: Metodo de envío obligatorio!';
 $_['error_no_shipping']      = 'Cuidado: Ninguna opción de envío disponible. Por favor <a href="%s">Contactanos</a> por ayuda!';
+$_['error_profile_required'] = 'Por favor seleccionar un perfil de pago!';
+
+$_['text_trial']             = '%s cada %s %s para %s pagos entonces ';
+$_['text_recurring']         = '%s cada %s %s';
+$_['text_length']            = ' por %s pagos';
+
 ?>
