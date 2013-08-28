@@ -26,6 +26,15 @@ $_['text_upload']       = 'El archivo ha sido subido satisfactoriamente!';
 $_['text_wait']         = 'Por favor espera!';
 $_['text_tags']         = 'Etiquetas:';
 $_['text_error']        = 'Producto no encontrado!';
+$_['text_payment_profile'] = 'Perfiles de pagos';
+$_['text_trial_description'] = '%s cada %d %s(s) por %d pago(s) entonces';
+$_['text_payment_description'] = '%s cada %d %s(s) por %d pago(s)';
+$_['text_payment_until_canceled_description'] = '%s cada %d %s(s) hasta ser cancelado';
+$_['text_day'] = 'día';
+$_['text_week'] = 'semana';
+$_['text_semi_month'] = 'medio mes';
+$_['text_month'] = 'mes';
+$_['text_year'] = 'año';
 
 // Entry
 $_['entry_name']        = 'Tu nombre:';
