@@ -30,6 +30,18 @@ $_['text_shipping_method']           = 'Por favor selecciona el método de enví
 $_['text_payment_method']            = 'Por favor selecciona el método de pago a usar en este pedido.';
 $_['text_comments']                  = 'Añade comentarios sobre tu pedido';
 
+
+$_['text_recurring_item']            = 'Artículo recurrente';
+$_['text_payment_profile']           = 'Perfil de pago';
+$_['text_trial_description']         = '%s cada %d %s(s) por %d pago(s) entonces';
+$_['text_payment_description']       = '%s cada %d %s(s) por %d pago(s)';
+$_['text_payment_until_canceled_description'] = '%s cada %d %s(s) hasta ser cancelado';
+$_['text_day']                       = 'dia';
+$_['text_week']                      = 'semana';
+$_['text_semi_month']                = 'medio mes';
+$_['text_month']                     = 'mes';
+$_['text_year']                      = 'año';
+
 // Column
 $_['column_name']                    = 'Nombre del producto';
 $_['column_model']                   = 'Modelo';
