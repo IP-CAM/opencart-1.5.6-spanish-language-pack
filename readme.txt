@@ -60,3 +60,6 @@ Thank you for use this translation n-n
 4) Person: Anil
 4) Notice Error: an extra %s format sign
 -------------------------------------------------------------------------------------------------------------
+5) Person: Eduardo Correa
+5) Notice Error: Getulio Nunez
+--------------------------
