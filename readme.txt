@@ -6,7 +6,7 @@ This is a Opencart spanish language pack for 1.5.6 version and it is **free**!!!
 
 ##Authors
 * name: rowend
-* email: rowend7@gmail.com
+* email: rowend07@gmail.com
 * github: https://github.com/rowend
 
 ##Structure
