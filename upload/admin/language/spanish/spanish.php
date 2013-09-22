@@ -29,7 +29,7 @@ $_['text_home']               = 'Inicio';
 
 // Button
 $_['button_insert']           = 'Insertar';
-$_['button_delete']           = 'Eleminar';
+$_['button_delete']           = 'Eliminar';
 $_['button_save']             = 'Guardar';
 $_['button_cancel']           = 'Cancelar';
 $_['button_clear']            = 'Limpiar Log';
