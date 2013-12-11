@@ -51,7 +51,7 @@ $_['entry_tax']                    = 'Mostrar precios con impuestos:';
 $_['entry_vat']                    = 'Validación del número de IVA:<br /><span class="help">Valida el valor del IVA con http://ec.europa.eu service.</span>';
 $_['entry_tax_default']            = 'Usar los impuestos de la Tienda:<br /><span class="help">Utilice la dirección de la tienda para calcular los impuestos si no hay nadie conectado. Usted puede optar por utilizar la dirección de la tienda para el envío a los clientes o la dirección de pago.</span>';
 $_['entry_tax_customer']           = 'Usar la direccion de impuestos del cliente:<br /><span class="help">Utilice la dirección por defecto de los clientes cuando iniciar sesión para el cálculo de los impuestos. Usted puede optar por utilizar la dirección por defecto para el envío a los clientes o la dirección de pago.</span>';
-$_['entry_customer_online']        = 'Clientes en linea:<br /><span class="help">Seguimeinto de los clientes en liena via la sección de reportes de clientes.</span>';
+$_['entry_customer_online']        = 'Clientes en linea:<br /><span class="help">Seguimiento de los clientes en linea via la sección de reportes de clientes.</span>';
 $_['entry_customer_group']         = 'Grupo de Clientes:<br /><span class="help">Grupo de Clientes por defecto.</span>';
 $_['entry_customer_group_display'] = 'Grupos de Clientes:<br /><span class="help">Mostrar los grupos de clientes que los nuevos clientes pueden seleccionar para utilizar como negocio al por mayor y al registrarse.</span>';
 $_['entry_customer_price']         = 'Al Inicio de sesión Mostrar precios:<br /><span class="help">Soló mostrar precios cuando un cliente ha inciado sesión.</span>';
@@ -60,7 +60,7 @@ $_['entry_cart_weight']            = 'Mostrar peso en la página del carrito:<br
 $_['entry_guest_checkout']         = 'Compra como invitado:<br /><span class="help">Permite a los invitados comprar sin necesidad de crear una cuenta. Esto no va a estar disponible cuando un producto de descarga se encuentra en la cesta de la compra.</span>';
 $_['entry_checkout']               = 'Terminos de compra:<br /><span class="help">Forces people to agree to terms before an a customer can checkout.</span>';
 $_['entry_order_edit']             = 'Edición de Pedidos:<br /><span class="help">Número de dias permitidos para para modificar un pedido. Esto es obligatorio por que precios y descuentos pueden cambiar con el tiempo corrompiendo el pedido si es editado.</span>';
-$_['entry_invoice_prefix']         = 'Prefijo de la factura:<br /><span class="help">Establecer el prefijo factura (ej. FAC-2011-00). ID de la Factura empezara en uno 1 pra cada prefijo único</span>';
+$_['entry_invoice_prefix']         = 'Prefijo de la factura:<br /><span class="help">Establecer el prefijo factura (ej. FAC-2011-00). ID de la Factura empezara en uno 1 para cada prefijo único</span>';
 $_['entry_order_status']           = 'Estado del Pedido:<br /><span class="help">Establecer el estado por defecto por defecto para los pedidos cuando un pedido es procesado.</span>';
 $_['entry_complete_status']        = 'Estado de Pedidos Completados:<br /><span class="help">Establecer el estado de los pedidos de los clientes que debe alcanzar antes de que ellos puedan acceder a sus descargas y vales de regalo.</span>';
 $_['entry_stock_display']          = 'Mostrar Stock:<br /><span class="help">Mostrar la cantidad del stock en la página de los productos.</span>';
