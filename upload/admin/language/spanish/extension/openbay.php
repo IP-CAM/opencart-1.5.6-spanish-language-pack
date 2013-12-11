@@ -1,7 +1,7 @@
 <?php
-// Heading 
-$_['lang_heading_title']        = 'OpenBay Pro'; 
-$_['lang_text_manager']         = 'Gerente de OpenBay'; 
+// Heading
+$_['lang_heading_title']        = 'OpenBay Pro';
+$_['lang_text_manager']         = 'Gerente de OpenBay';
 
 // Text
 $_['text_install']              = 'Instalar';
@@ -103,7 +103,7 @@ $_['lang_ajax_courier_other']           = 'Otro Mensajero';
 $_['lang_ajax_tracking']                = '# de seguimiento';
 $_['lang_ajax_tracking_msg']            = 'Debes introducir el ID de seguimiento, usar "none" si no tienes ninguno';
 $_['lang_ajax_tracking_msg2']           = 'Tu ID de seguimiento no puede contener los caracteres > o <';
-$_['lang_ajax_tracking_msg3']           = 'Debes seleccionar un mensajero si quieres subir un número de seguimeinto.';
+$_['lang_ajax_tracking_msg3']           = 'Debes seleccionar un mensajero si quieres subir un número de seguimiento.';
 $_['lang_ajax_tracking_msg4']           = 'Por favor deja el campo de mensajero vacio si quieres utilizar un mensajero personalizado.';
 
 $_['lang_title_help']                   = '¿Necesitas ayuda con OpenBay Pro?';
