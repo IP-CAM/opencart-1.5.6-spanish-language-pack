@@ -52,7 +52,7 @@ $_['entry_password'] = 'Contraseña:';
 $_['entry_partner'] = 'Socio:';
 $_['entry_test'] = 'Modo Prueba:<br /><span class="help">Usar en vivo o en modo prueba (sandbox) para procesar las transacciones del servidor? En modo prueba puede fallar en el navegador Internet Explorer</span>';
 $_['entry_total'] = 'Total:<br /><span class="help">El monto total que debe alcanzar el pedido antes que el metodo de pago sea activado.</span>';
-$_['entry_order_status'] = 'Estatus del Pedido:';
+$_['entry_order_status'] = 'Estados del Pedido:';
 $_['entry_geo_zone'] = 'Zona geografica:';
 $_['entry_status'] = 'Estatus:';
 $_['entry_sort_order'] = 'Orden de aparción:';
